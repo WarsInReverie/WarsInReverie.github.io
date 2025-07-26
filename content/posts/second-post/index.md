@@ -2,6 +2,7 @@
 date = '2025-06-22T01:37:17-05:00'
 draft = true
 title = 'Second Post'
+showTableOfContents = false
 +++
 
 ## unit insignia & patches

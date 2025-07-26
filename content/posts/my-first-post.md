@@ -1,8 +1,12 @@
-+++
-date = '2025-06-21T22:55:12-05:00'
-draft = false
-title = 'Work in progress'
-+++
+---
+date: '2025-06-21T22:55:12-05:00'
+draft: false
+title: 'Work in progress'
+showAuthor: false
+authors:
+    - "cwiffy"
+showTableOfContents: true
+---
 
 # Welcome!
 
@@ -27,8 +31,11 @@ https://x.com/Cwiffy_Ricks
 Newgrounds:
 https://cwiffie.newgrounds.com/
 
-Wattpad (inactive):
-https://www.wattpad.com/user/Cwiffy
+Tumblr:
+https://www.tumblr.com/blog/cwiffy (inactive)
+
+Wattpad:
+https://www.wattpad.com/user/Cwiffy (inactive & empty)
 
 Note that before this website's publishing (21st June), this project was previously under the "*Project Amikiro*" nomenclature.
 
