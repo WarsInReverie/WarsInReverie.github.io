@@ -3,6 +3,7 @@
     "image" : "author/cwiffy_pfp.png",
     "bio": "Writer, Producer, and Everything Else",
     "social": [
+        { "bluesky": "https://bsky.app/profile/cwiffy.bsky.social"},
         { "twitter": "https://twitter.com/Cwiffy_Ricks" },
         { "youtube": "https://www.youtube.com/@cwiffy"},
         { "github": "https://github.com/Cwiffy" },
