@@ -10,11 +10,11 @@ showTableOfContents: true
 
 # Welcome!
 
-Hi, welcome to my *Wars in Reverie*.
+Hi, welcome to these *Wars in Reverie*.
 
 This website is still a **work in progress**. 
 
-This website was first brought online via Github Pages on June 21st, 2025. The site will be refined over years, and content will slowly trickle in as time goes on.
+This website was first deployed via Github Pages on June 21st, 2025. Ideally, this site will be refined over years, and content will slowly be added as time goes on.
 
 # What to look out for?
 
@@ -28,6 +28,9 @@ https://bsky.app/profile/cwiffy.bsky.social
 Twitter:
 https://x.com/Cwiffy_Ricks
 
+YouTube:
+https://www.youtube.com/@cwiffy
+
 Newgrounds:
 https://cwiffie.newgrounds.com/
 
@@ -37,7 +40,7 @@ https://www.tumblr.com/blog/cwiffy (inactive)
 Wattpad:
 https://www.wattpad.com/user/Cwiffy (inactive & empty)
 
-Note that before this website's publishing (21st June), this project was previously under the "*Project Amikiro*" nomenclature.
+**Please beware:** Before the June 21st, this project was previously under the *"Project Fractures"* or *"Project Amikiro"* nomenclature.
 
 Stay tuned for more, I guess.
 

@@ -1,6 +1,8 @@
 # WarsInReverie.github.io
 Website for the "Wars in Reverie" series.
 
+[WarsInReverie.github.io](https://warsinreverie.github.io/)
+
 This website was built with Hugo, and uses the Blowfish theme (to be modified)
 
 Inspired by millmint.net.
