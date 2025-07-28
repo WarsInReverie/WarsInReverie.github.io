@@ -37,7 +37,7 @@
   weight = 20
 
 [[main]]
-  name = "Animations"
+  name = "Roblox"
   parent = "Media"
 #  pageRef = "posts"
   weight = 30

@@ -8,7 +8,7 @@ authors:
 showTableOfContents: true
 ---
 
-owagadodoo
+[owagadodoo adventures in narnia by thge nine im tweaking]
 
 ## Project History
 
@@ -40,20 +40,22 @@ owagadodoo
 
 ### Militarism with Geekiness
 
+Quite odd places to be inspired by, yes? Militarism and internet culture are so comically different from each other, it can be hard to imagine how one could incorporate both simultaneously. Nevertheless, if we had been motivated by some morbid curiousity, what would happen if we mixed those two themes together?
+
 [BWMC and its consequences, a practical example of childish fantasy and internet culture intertwined with macheovalian politics and brutal warfighting blah blah blah]
 
 [noncredible defense & anti-reformist movement wahh wahh wahh]
 
-## Personal Ambitions
+## Personal Vision
 
 [overall artistic intent i have personally]
 
 [uhhh something something political critique and anime shit idk]
 
-This project is designed to be inherently contradictory. It'll have motifs that of childish imagination and wonder, despite its delivery through a grounded, candid lens. Its setting is wildly fantastical, yet delivered as if it were a banal reality. Its themes of childish imagination will mesh with those of militarism and 
+This project is designed to be inherently contradictory. It'll have motifs that of childish imagination and wonder, despite its delivery through a grounded, candid lens. Its setting is wildly fantastical, yet delivered as if it were a banal reality. Its themes of childish imagination will mesh with those of militarism and pragmatism.
 
-It's all the ideas I've had in mindless reverie; My wild imaginations of a far-flung world where dragons streaked the sky and magic flows free. A world where your fantasies became true, and yet, nothing has changed. 
+This is the culmination of all the ideas I've dreamt in mindless reverie; Wild imaginations of a far-flung world where dragons streaked across the sky and magic flows free. A world where your all fantasies became true, and yet, nothing has changed. 
 
-The flaws of the sapien mind endure. War, poverty, and death remain rampant. Any person's ideas will still clash with another's, whether by the sharpness of speech or the strength of blades. No matter how fantastic the escapism, conflict will always be inevitable.
+The flaws of the sapien mind endure. War, poverty, and death remain rampant. Any person's ideas will still clash with another's, whether by the bluntness of speech or the sincerity of blades. No matter how fantastic the escapism, conflict will always be inevitable.
 
 These are the wars that I've had in reverie.
