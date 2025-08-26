@@ -16,5 +16,3 @@ The MBT-31 was never designated a name nor officially carries a namesake. Howeve
 As the Federation Army's Armored Corps committed fully into the Main Battle Tank doctrine, the MBT-31 was mass-produced on a wide scale beginning in the 1970's, both to replace the Federation's aging heavy tanks, and to export to other allied countries. As a result, the MBT-31 became one of the most mass-produced and widely circulated armored fighting vehicles in the developed world today.
 
 The MBT-31 served for a long four decades in frontline service, the longest service of any armored vehicle, even longer than its replacement, the MBT-37. The Federation pulled MBT-31 from frontline units in 1989, and all federal active-duty units by 1997, replaced by the MBT-37. Regardless, the proven reliability and versatility of the MBT-31 meant that the Federation keeps large stocks of the vehicles to this day, either for use in the National Militia or for export to friendly nations.
-
-{{< article link="/posts/newgrounds-MBT31/">}}
