@@ -26,11 +26,11 @@ showTableOfContents: true
 
 [themes and artistic intent changed alot since Kerbal Konflicts but the core bones are still there]
 
-## Personal Inspirations
+## Themes & Personal Inspirations
 
 [inspiration i took that shaped the project's current form]
 
-### Militarism & Politics
+### Militarism & Realpolitik
 
 [KSP war machinimas (obviously), personal experience with military parents and military schooling yada yada yada]
 
@@ -38,7 +38,7 @@ showTableOfContents: true
 
 [Mid-2010's Nightcore scene, Anime community at large, Cyberpunk themes due to inspiration from Shiguto, gacha games like Azur Lane and Arknights and Nikke and awgvswaert;oigfubvhsrzikjbznh]
 
-### Militarism with Geekiness
+### Quirky Militarism
 
 Quite odd places to be inspired by, yes? Militarism and internet culture are so comically different from each other, it can be hard to imagine how one could incorporate both simultaneously. Nevertheless, if we had been motivated by some morbid curiousity, what would happen if we mixed those two themes together?
 
@@ -52,10 +52,10 @@ Quite odd places to be inspired by, yes? Militarism and internet culture are so 
 
 [uhhh something something political critique and anime shit idk]
 
-This project is designed to be inherently contradictory. It'll have motifs that of childish imagination and wonder, despite its delivery through a grounded, candid lens. Its setting is wildly fantastical, yet delivered as if it were a banal reality. Its themes of childish imagination will mesh with those of militarism and pragmatism.
+This project is designed to be inherently contradictory. It will allude to child-like imagination and wonder, despite its candid delivery and grounded mindset. Its setting is wildly fantastical, yet delivered as if it were a banal reality. The rich color of imagination will clash with the bleakness of its pragmatic impliment.
 
-This is the culmination of all the ideas I've dreamt in mindless reverie; Wild imaginations of a far-flung world where dragons streaked across the sky and magic flows free. A world where your all fantasies became true, and yet, nothing has changed. 
+This is the culmination of all the ideas I've dreamt within mindless reverie; Wild imaginations of a far-flung world where dragons streaked across the sky and magic flows free. A world where your all fantasies became true. 
 
-The flaws of the sapien mind endure. War, poverty, and death remain rampant. Any person's ideas will still clash with another's, whether by the bluntness of speech or the sincerity of blades. No matter how fantastic the escapism, conflict will always be inevitable.
+And yet, nothing ever changed. The flaws of people endure. War, poverty, and death persist. Any idea shall still collide with another, whether by the bluntness of speech or the sincerity of blades. No matter how fantastic the escapism, conflict will always be inevitable.
 
 These are the wars that I've had in reverie.

@@ -5,8 +5,8 @@ cascade:
   showReadingTime: false
 ---
 
-{{< alert "circle-info" >}}
-This page is a **Placeholder**; The layout may change in the future.
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#27272a" >}}
+**This webpage is currently empty!** Please check back another time!
 {{< /alert >}}
 
-This section contains all of the project's lore.
+This section is currently under construction. In the future, this page will house the *Infopedia* section, which will detail all of the in-universe facts and history.

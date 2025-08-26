@@ -33,13 +33,13 @@
 [[main]]
   name = "Illustrations"
   parent = "Media"
-#  pageRef = "posts"
+  pageRef = "medium/Illustration"
   weight = 20
 
 [[main]]
   name = "Roblox"
   parent = "Media"
-#  pageRef = "posts"
+  pageRef = "medium/Roblox"
   weight = 30
 
 #[[main]]

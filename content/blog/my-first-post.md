@@ -6,15 +6,14 @@ showAuthor: false
 authors:
     - "cwiffy"
 showTableOfContents: true
+showHero: false
 ---
 
 # Welcome!
 
 Hi, welcome to these *Wars in Reverie*.
 
-This website is still a **work in progress**. 
-
-This website was first deployed via Github Pages on June 21st, 2025. Ideally, this site will be refined over years, and content will slowly be added as time goes on.
+This website is still a **work in progress**.  It was first deployed via Github Pages on June 21st, 2025. Ideally, this site will be refined over years, and content will slowly be added as time goes on.
 
 # What to look out for?
 
