@@ -1,10 +1,10 @@
 +++
 date = '2025-08-26T11:06:07-05:00'
 draft = true
-title = 'MBT-31(A4) ELF & MDF Program'
+title = 'MBT-31/A4 Elf & The MDF Program'
 +++
 
-MBT-31(A4)ELF, or the "Main Battle Tank Model 31(A4) Extended Life Refit", or simply the MBT-31 "Elf," is a armor and combat package overhaul of the MBT-31 Foxtrotter. This "Extended Life Refit" enabled this decades-old design to be brought out of mothballs and be fielded once more in the Federation Army.
+The MBT-31/A4(ELF), fully titled the "Main Battle Tank Model 31 / Addendum 4 (Extended Life Retrofit)", or simply the "Elf," is a armor and combat package overhaul of the MBT-31 Foxtrotter. This "Extended Life Retrofit" enabled this decades-old design to be brought out of mothball and be fielded once more in the Federation Army.
 
 The Elf is the result of the Medium Direct Fires (MDF) program, which was a program to find a cheaper alternative to expensive main battle tank platforms (such as the MBT-37 Blackfoot) to provide direct fire support to infantry. This program was started in spite of the decline of the "tank" in modern battle, due to the rise of drone swarms, loitering munitions, and growing doctrinal focus on drones and indirect fires within the Federaiton military and abroad. Indeed, during the MDF program trials, many Federal lawmakers and the general public was skeptical of the need for another tank, and were especially skeptical of the resulting retrofit of the decades-old MBT-31 design — a design that should be obsolete in most respects.
 

@@ -1,6 +1,7 @@
 ---
-title: 'MBT-31 Foxtrotter'
-date: '2023-07-03T00:39:34-05:00'
+date: '2025-08-26T12:10:14-05:00'
+draft: true
+title: 'MBT 31'
 draft: true
 showAuthor: false
 description: ""
@@ -16,8 +17,9 @@ medium: ["roblox"]
 {{< figure
     src="feature.png"
     alt="MBT-31 Foxtrotter"
-    caption="Created on Roblox by Cwiffy"
+    caption="Created by Cwiffy on Roblox"
     >}}
 
+Main article:
 
-wawawa
+{{< article link="/posts/mbt-31/">}}
