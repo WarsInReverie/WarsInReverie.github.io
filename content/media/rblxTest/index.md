@@ -14,7 +14,7 @@ medium: ["roblox", "illustration"]
 ---
 
 {{< figure
-    src="FreezeFrame.png"
+    src="feature.png"
     alt="MBT-31 Foxtrotter"
     caption="Created on Roblox by Cwiffy"
     >}}
