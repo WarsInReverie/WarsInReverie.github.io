@@ -1,6 +1,6 @@
 ---
-title: 'Rblx Test'
-date: '2025-06-21T22:55:12-05:00'
+title: 'MBT-31 Foxtrotter'
+date: '2023-07-03T00:39:34-05:00'
 draft: true
 showAuthor: false
 description: ""
@@ -10,7 +10,7 @@ showTaxonomies: true
 showDate: false
 authors:
     - "cwiffy"
-medium: ["roblox", "illustration"]
+medium: ["roblox"]
 ---
 
 {{< figure
