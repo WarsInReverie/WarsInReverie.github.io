@@ -7,7 +7,7 @@ cascade:
 type: "devlog"
 ---
 
-This section contains all of the project's devlogs.
+This section houses developer commentary, also called "developer logs" or "devlogs." This is where contributors to Wars in Reverie can share their thoughts on the project, and their creative processes behind their contributions.
 
 {{< alert "circle-info" >}}
 The **opinions of each individual author** do not necessarily reflect the views of the Wars in Reverie project.
