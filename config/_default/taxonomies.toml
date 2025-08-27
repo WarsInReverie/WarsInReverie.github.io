@@ -1,4 +1,3 @@
-factions = "factions"
-artMedium = "medium"
 content = "content"
-series = "series"
+mediums = "mediums"
+factions = "factions"

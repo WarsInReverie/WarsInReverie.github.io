@@ -2,6 +2,7 @@
 date = '2025-08-26T11:06:07-05:00'
 draft = true
 title = 'MBT-31/A4 Elf & The MDF Program'
+content = ["📰 Posts"]
 +++
 
 The MBT-31/A4(ELF), fully titled the "Main Battle Tank Model 31 / Addendum 4 (Extended Life Firesupport)", or simply the "Elf," is a armor and combat package overhaul of the MBT-31 Foxtrotter. This "Extended Life Firesupport" enables this decades-old design to be brought out of mothball and be fielded once more in the Federation Army.

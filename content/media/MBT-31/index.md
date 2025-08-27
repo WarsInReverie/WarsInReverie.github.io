@@ -1,7 +1,7 @@
 ---
 date: '2025-08-26T12:10:14-05:00'
 draft: true
-title: '(Art) MBT-31 Foxtrotter'
+title: 'MBT-31 Foxtrotter'
 draft: true
 showAuthor: false
 description: ""
@@ -11,7 +11,8 @@ showTaxonomies: true
 showDate: false
 authors:
     - "cwiffy"
-medium: ["roblox build"]
+content: ["🎨 Media"]
+mediums: ["roblox"]
 ---
 
 {{< figure

@@ -37,9 +37,9 @@
   weight = 20
 
 [[main]]
-  name = "Roblox"
+  name = "Roblox Builds"
   parent = "Media"
-  pageRef = "medium/Roblox"
+  pageRef = "mediums/roblox/"
   weight = 30
 
 #[[main]]
