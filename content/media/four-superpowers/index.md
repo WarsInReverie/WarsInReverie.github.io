@@ -12,6 +12,8 @@ mediums = ["roblox"]
 This artwork contains **placeholder assets**. These assets should not be considered canon, and are expected to be replaced in the future.
 {{< /alert >}}
 
+Posters that depict the four main nation-state factions, or "Superpowers," in the *Wars in Reverie* universe.
+
 ## Artwork Details
 
 Created by [Cliff Ricks](https://www.roblox.com/users/69259982/profile) on [Roblux Studio](https://create.roblox.com/landing).
@@ -20,7 +22,7 @@ Image editing by Cliff Ricks using [Inkscape](https://inkscape.org/) and [Paint.
 
 Shown Roblox assets were created by their respective UGC creators. All rights reserved to original UGC creators.
 
-## "Four Superpowers" Poster
+## Full-Res Poster
 
 {{< figure
     src="FourSuperpowers_export.png"
@@ -36,7 +38,7 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     default=true
     >}}
 
-## Full-Resolution Faction Posters
+## Faction Posters
 
 ### Dynasty Poster
 
@@ -129,8 +131,8 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     >}}
 
 
-<!-- ## Referenced Posts
+## Referenced Posts
 
 Main article:
 
-{{< article link="/posts/four-superpowers/">}} -->
+{{< article link="/posts/four-superpowers/">}}
