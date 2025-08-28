@@ -20,9 +20,7 @@ Image editing by Cliff Ricks using [Inkscape](https://inkscape.org/) and [Paint.
 
 Shown Roblox assets were created by their respective UGC creators. All rights reserved to original UGC creators.
 
-## Full-Resolution Images
-
-### "Four Superpowers" Poster
+## "Four Superpowers" Poster
 
 {{< figure
     src="FourSuperpowers_export.png"
@@ -38,7 +36,9 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     default=true
     >}}
 
-### Faction Posters
+## Full-Resolution Faction Posters
+
+### Dynasty Poster
 
 {{< figure
     src="Poster-Dynasty.png"
@@ -54,6 +54,8 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     default=true
     >}}
 
+### Collective Poster
+
 {{< figure
     src="Poster-Collective.png"
     alt="Full-res Collective poster art"
@@ -68,6 +70,8 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     default=true
     >}}
 
+### Federation Poster
+
 {{< figure
     src="Poster-Federation.png"
     alt="Full-res Federation poster art"
@@ -81,6 +85,8 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     caption="Full resolution poster in .svg format"
     default=true
     >}}
+
+### Regime Poster
 
 {{< figure
     src="Poster-Regime.png"
