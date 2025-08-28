@@ -1,9 +1,10 @@
 +++
 date = '2025-08-26T11:06:02-05:00'
-draft = true
+draft = false
 title = 'MBT-31 Foxtrotter'
 content = ["📰 Posts"]
 factions = ["federation"]
+mediums = ["roblox"]
 +++
 
 {{< alert "circle-info" >}}

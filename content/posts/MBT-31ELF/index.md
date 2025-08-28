@@ -1,8 +1,10 @@
 +++
 date = '2025-08-26T11:06:07-05:00'
-draft = true
+draft = false
 title = 'MBT-31/A4 Elf & The MDF Program'
 content = ["📰 Posts"]
+factions = ["federation"]
+mediums = ["roblox"]
 +++
 
 The MBT-31/A4(ELF), fully titled the "Main Battle Tank Model 31 / Addendum 4 (Extended Life Firesupport)", or simply the "Elf," is a armor and combat package overhaul of the MBT-31 Foxtrotter. This "Extended Life Firesupport" enables this decades-old design to be brought out of mothball and be fielded once more in the Federation Army.
@@ -15,5 +17,5 @@ Do not let the old chassis fool you, however. The Elf's new armor and survivabil
 
 The MBT-31 Elf is, at its core, an obsolete tank that is most definitely outclassed by most armored vehicles, but its current doctrine is not to maneuver as armored cavalry nor fight armor. It's purpose is to be a cheap, mobile, direct fires platform with enough armor to take a beating from infantry and light armored vehicles. When employed in that doctrine, the MBT-31 Elf is incredibly effective.
 
-More MBT-31/A4 artwork here:
-{{< article link="/media/mbt-31/">}}
+<!-- More MBT-31/A4 artwork here:
+{{< article link="/media/mbt-31/">}} -->
