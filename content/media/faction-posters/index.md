@@ -1,7 +1,7 @@
 +++
 date = '2025-08-27T12:42:05-05:00'
 draft = false
-title = 'The Four Superpowers'
+title = 'Faction Posters'
 content = ["🎨 Media"]
 showAuthor = false
 author = ["cwiffy"]
@@ -12,7 +12,7 @@ mediums = ["roblox"]
 This artwork contains **placeholder assets**. These assets should not be considered canon, and are expected to be replaced in the future.
 {{< /alert >}}
 
-Posters that depict the four main nation-state factions, or "Superpowers," in the *Wars in Reverie* universe.
+Posters that depict the four superpower nationss, or "The Four Poles," in the *Wars in Reverie* universe.
 
 ## Artwork Details
 
