@@ -1,7 +1,7 @@
 +++
 date = '2025-09-30T10:59:27-05:00'
 draft = false
-title = 'Glossy Gyaru'
+title = 'Glossy Gyaru in the Midterm Insurgency'
 content = ["📰 Posts"]
 factions = ["federation"]
 mediums = ["roblox"]
