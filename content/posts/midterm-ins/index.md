@@ -1,7 +1,7 @@
 ---
 date: '2025-09-30T12:02:39-05:00'
 draft: false
-title: 'Glossy Gyaru'
+title: 'midterm insurgency'
 showAuthor: false
 ---
 
