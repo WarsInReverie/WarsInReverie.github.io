@@ -15,7 +15,7 @@ Among the countless Federation service members that saw action in the Midterm In
     caption="Glossy Gyaru perched atop a hill. Circa Summer of 1976."
     >}}
 
-The Glossy Gyaru was a tank from Company F of the 2nd Armored Battalion, 6th Armored Brigade. When she deployed for the Midterm Insurgency, she was detached to support the infantry of Company G, 3rd Infantry Battalion, 6th Armored. Together with those infantrymen, this tank seen action throughout the Midterm Insurgency.
+The Glossy Gyaru was a tank that served as part of the 6th Armored Brigade. When she deployed for the Midterm Insurgency, she was detached to support the infantry of Company G, 3rd Infantry Battalion, 6th Armored. Together with those infantrymen, this tank seen action throughout the Midterm Insurgency.
 
 The Midterm Insurgency was an internal conflict within the Federation between 1974 to 1979. The etymology of the name is two-fold: The conflict coincided with the Midterm Elections of 1974, and was largely resolved by the Midterm Elections of 1978, hence the conflict’s association with the Midterms. Additionally, though some people consider this to be the Federation’s “second civil war” (due to sharing some similarities to the Federation Civil War), the Federation government had not declared a state of war during the conflict. Instead, government archives and official statements describe the period as a time of domestic conflict, thus its description as an insurgency.
 
