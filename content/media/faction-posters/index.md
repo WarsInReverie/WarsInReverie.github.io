@@ -20,9 +20,13 @@ Created by [Cliff Ricks](https://www.roblox.com/users/69259982/profile) on [Robl
 
 Image editing by Cliff Ricks using [Inkscape](https://inkscape.org/) and [Paint.net](https://www.getpaint.net/).
 
+Image text uses *Lexend (Regular)* & *Lexend Peta* styles of the [Lexend](https://www.lexend.com/) font.
+
+*Wars in Reverie* title uses the *Novocento Wide Bold* style of the [Novocento Sans](https://typography.synthview.com/novecento-sans-font-family.php) font. (Wide Bold version can be obtained on their [Fontspring](https://www.fontspring.com/fonts/synthview/novecento-sans#about) page.)
+
 Shown Roblox assets were created by their respective UGC creators. All rights reserved to original UGC creators.
 
-## Full-Res Poster
+## Full Resolution Poster
 
 {{< figure
     src="FourSuperpowers_export.png"
@@ -131,8 +135,7 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
     >}}
 
 
-## Referenced Posts
+<!-- ## Links
 
-Main article:
-
-{{< article link="/posts/four-superpowers/">}}
+Main post:
+{{< article link="/posts/four-superpowers/">}} -->

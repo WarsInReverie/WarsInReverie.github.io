@@ -15,7 +15,6 @@ This article is a republication of the original, published on Newgrounds on July
 The MBT-31 was introduced into Federation service in 1962, originally designated the "MT-31" or "Medium Tank, Model 31." At the time, Federation armored doctrine was still in transition to the Main Battle Tank doctrine; The MBT-31 was caught in the middle of such transition, thus was originally considered a Medium Tank, in comparison to the heavy breakthrough tanks that were still employed at the time.
 
 {{< gallery >}}
-  <!-- <img src="feature.webp" class="grid-w50" /> -->
   <img src="mbt31_1.webp" class="grid-w100" />
   <img src="mbt31_2.webp" class="grid-w50" />
   <img src="mbt31_3.webp" class="grid-w50" />

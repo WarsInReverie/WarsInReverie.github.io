@@ -29,13 +29,13 @@ Although the term “insurgency” sounds singular, the conflict was characteriz
 
 To summarize in broad terms: the Midterm Insurgency started in 1974 due to racial tensions between human supremecist citizens (notably white supremicists) and various minorities (most notably the "Furry" and "Negro" peoples). This tension was inflamed by the 1974 Midterms, which introduced a wave of anti-segregationist Federation politicians. These new politicians advocated for various reforms that angered conservatives and ultra-nationalists. Anti-Furry groups began to riot across the Federation in denial of the elections, targeting various minority and ideological groups like Furry people, Black people, Socialists, immigrants, and various others. This, in turn, prompted rival groups to arm themselves for protection, deeming the Federation government as ultimately inadequate. In the end, the Federation military was prompted to stamp out these various sources of dissent, through all means enabled by the newly elected delegation.
 
-By the time of the Midterm Insurgency, the “Glossy Gyaru” should have been stricken from the Federation Army inventory. She was an unmodified MBT-31 Foxtrotter, built during the design’s original production run in the late-1960’s. By the mid-1970’s, the Glossy Gyaru and tanks of similar age should have been considered obsolete. However, the start of the Midterm Insurgency meant that the Federation Army couldn’t wait for desperately needed weapons and materiel. Thus, the Glossy Gyaru’s retirement was postponed, and the tank was immediately pushed into deployment with the 6th Armored.
-
 {{< figure
     src="GlossyGyaru_1.webp"
     alt="GlossyGyaru_1.webp"
     caption="Glossy Gyaru maneuvers with infantry from Company G, providing direct fires to other elements of the 6th Armored. Circa Summer of 1976."
     >}}
+
+By the time of the Midterm Insurgency, the “Glossy Gyaru” should have been stricken from the Federation Army inventory. She was an unmodified MBT-31 Foxtrotter, built during the design’s original production run in the late-1960’s. By the mid-1970’s, the Glossy Gyaru and tanks of similar age should have been considered obsolete. However, the start of the Midterm Insurgency meant that the Federation Army couldn’t wait for desperately needed weapons and materiel. Thus, the Glossy Gyaru’s retirement was postponed, and the tank was immediately pushed into deployment with the 6th Armored.
 
 As part of the 6th Armored, the Glossy Gyaru seen action throughout the Federation heartlands, suppressing forces hostile to Federation law. Most of these missions were policing actions: Tanks patrolling cities as a “show-of-force" to deter violence. A few others, however, were combat missions. In combat, military tanks supported soldiers and policemen by providing cover with their heavy armor, or in some rare instances, providing fire support with their cannons. The Glossy Gyaru was photographed in many of those engagements, providing direct fires against entrenched rebels in rural lands.
 

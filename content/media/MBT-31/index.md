@@ -21,6 +21,8 @@ mediums: ["roblox"]
     caption="Created by Cwiffy on Roblox"
     >}}
 
-Main article:
 
+# Links
+
+Main post:
 {{< article link="/posts/mbt-31/">}}

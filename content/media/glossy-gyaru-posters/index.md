@@ -18,9 +18,9 @@ Image editing by Cliff Ricks using [Paint.net](https://www.getpaint.net/).
 
 Some Roblox assets were created by their respective UGC creators. All rights reserved to original UGC creators.
 
-## Full-Res Images
+## Full Resolution Images
 
-### Vintage-Style
+### Vintage
 
 {{< figure
     src="GlossyGyaru_1.png"
@@ -50,7 +50,7 @@ Some Roblox assets were created by their respective UGC creators. All rights res
     default=true
     >}}
 
-### Full-Color
+### Full Color
 
 {{< figure
     src="GlossyGyaru_color1.png"
@@ -80,8 +80,7 @@ Some Roblox assets were created by their respective UGC creators. All rights res
     default=true
     >}}
 
-## Referenced Posts
+## Links
 
-Main article:
-
-{{< article link="/posts/gyaru-midterm-insurgency">}}
+Main post:
+{{< article link="/posts/gyaru-midterm-insurgency/" showSummary=true compactSummary=true >}}
