@@ -6,6 +6,7 @@ showAuthor: false
 authors:
     - "cwiffy"
 showTableOfContents: true
+showHero: false
 ---
 
 The Glossy Gyaru has some cool textures and markings that I couldn’t really talk about in the Glossy Gyaru in the Midterm Insurgency article.
