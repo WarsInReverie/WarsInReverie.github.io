@@ -15,7 +15,7 @@ I was on the verge of detailing the Glossy Gyaru’s unit placement (which corre
 
 ## Glossy Gyaru
 
-First off— *Glossy Gyaru* herself. I say “her” as a sort of loving anthropomorphizing, like how ships are referred with female pronouns. Also, as of writing, I’m not sure if Glossy Gyaru would have a tankgirl incarnation or not (I’ve been considering if this catgirl character should be the tankgirl of the Glossy Gyaru). So, consider my referral to the tank as a female as a form of future proofing.
+First off— Glossy Gyaru herself. I say “her” as a sort of loving anthropomorphizing, like how ships are referred with female pronouns. Also, as of writing, I’m not sure if Glossy Gyaru would have a tankgirl incarnation or not (I’ve been considering if this catgirl character should be the tankgirl of the Glossy Gyaru). So, consider my referral to the tank as a female as a form of future proofing.
 
 The idea for this tank is quite old, about as old as the MBT-31 itself as a design that I made. I made the MBT-31 in mid-2023, and made [my developer's commentary](https://cwiffie.newgrounds.com/news/post/1369258) of that design on July 1st. And immediately on that post, you see a tank with the name written across the cannon barrel: *“Glossy Gyaru.”*
 
@@ -35,7 +35,7 @@ It was just a random, dumb name I made to put on the tank. I was doing the same 
 
 (The "Shooter Scooter", "Inali", & "Depresso Expresso")
 
-But even then, the name just kinda stuck. Not that it’s particularly charming, I was just too lazy to dish out any more names. So come this year, once I felt like revisiting some of my old work after committing to *”Wars in Reverie”* as a project title, I wanted to touch up an MBT-31 and give it cool decals. Then, when it came time to put a name on the barrel, what other one to slap on except *Glossy Gyaru*. Thus how I made the Glossy Gyaru pictured in the main article.
+But even then, the name just kinda stuck. Not that it’s particularly charming, I was just too lazy to dish out any more names. So come this year, once I felt like revisiting some of my old work after committing to *”Wars in Reverie”* as a project title, I wanted to touch up an MBT-31 and give it cool decals. Then, when it came time to put a name on the barrel, what other one to slap on except Glossy Gyaru. Thus how I made the Glossy Gyaru pictured in the main article.
 
 ## Unit Assignment
 
@@ -126,12 +126,12 @@ Then later in 2018, when the Blocksworld Military Community became less player-c
 It’s a cute little idea that I wanted to carry on into *Wars in Reverie*. As I’ve said in the last section, it’s a silly idea but it does indeed have utility. Even if it’s no longer of practical use in the field, it can still serve as a point of pride for the regiments and brigades that brandish their unique colors.
 I’ve written much more than I originally intended, but I still want to give this topic its own dedicated article. Regimental colors, esprit-de-corps, and the anime-esque look to it are all points worth explaining further with better devotion.
 
-But for now, just know that these were all the contexts that revolved around the *Glossy Gyaru*, and what her markings all symbolize.
+But for now, just know that these were all the contexts that revolved around the Glossy Gyaru, and what her markings all symbolize.
 
 ## Links
 
-Main post:
+*Main post:*
 {{< article link="/posts/gyaru-midterm-insurgency/" showSummary=true compactSummary=true >}}
 
-Media article:
+*Media article:*
 {{< article link="/media/glossy-gyaru-posters/" showSummary=false compactSummary=false >}}

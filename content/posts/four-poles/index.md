@@ -43,7 +43,9 @@ The Eight-Spear Empire, more commonly known as "The Dynasty," is a union of eigh
     alt="The Collective poster art"
     >}}
 
-The Collective, living up to its name, is made up of a collective of many socialist parties under one nation. However, it's internal politics is wholely dominated by just three: The Anarchists, the Militocracy, and the Democratic Socialists.
+The **Socialist Collectivist Union**, also known as **The Collective**, is the largest and most powerful socialist state in history. This hyper-industrialized superpower is the world's safehaven for socialist thinking, and the main propagator of the "Global Revolution."
+
+Living up to its nickname, **The Collective** is made up of a collective of many socialist parties under one nation. The three most prominent of those parties being the Anarcho-Socialists, the Stratocratic-Socialists, and the Democratic-Socialists.
 
 
 
@@ -81,3 +83,6 @@ Branded by outsiders simply as "The Regime," this autocratic nation strives to p
 
 
 <!-- The Regime is less of a nation, and more a rabid animal — always prowling for its next target to prey upon. The reigning dictatorship is sure to keep this animal well-fed and on a tight leesh, but the question of "if this animal breaks free" remains unanswered. Today, the Regime's population is content with scape-goating magical and furry peoples, but when the true economic reality sets in, how well can this easily agitated nation handle a smite to its internal stability? Although this nation can effortlessly prey on its neighbors and play onto the world's fears, it is equally capable of consuming itself in its own feral hellfire. -->
+
+*Four Poles artwork:*
+{{< article link="/media/faction-posters/" showSummary=false compactSummary=false >}}
