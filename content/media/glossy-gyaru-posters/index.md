@@ -82,5 +82,5 @@ Some Roblox assets were created by their respective UGC creators. All rights res
 
 ## Links
 
-Main post:
+*Main post:*
 {{< article link="/posts/gyaru-midterm-insurgency/" showSummary=true compactSummary=true >}}

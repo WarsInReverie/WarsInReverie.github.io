@@ -137,5 +137,5 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 
 <!-- ## Links
 
-Main post:
-{{< article link="/posts/four-superpowers/">}} -->
+*Main post:*
+{{< article link="/posts/four-superpowers/" showSummary=false compactSummary=false >}} -->

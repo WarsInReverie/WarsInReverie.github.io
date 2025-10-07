@@ -26,8 +26,11 @@ As the Federation Army's Armored Corps committed fully into the Main Battle Tank
 
 The MBT-31 served for a long four decades in frontline service, the longest service of any armored vehicle; Even longer than its replacement and the Federation's current main battle tank, the MBT-37 Blackfoot. The Federation pulled MBT-31 from frontline units in 1989, and all federal active-duty units by 1997, replaced by the MBT-37. Regardless, the proven reliability and versatility of the MBT-31 meant that the Federation keeps large stocks of the vehicles to this day, either for use in the National Militia or for export to friendly nations.
 
-More MBT-31 artwork:
+*More MBT-31 artwork:*
 {{< article link="/media/mbt-31/" showSummary=true compactSummary=true >}}
 
-*Created on August 28th, 2025.*
+*Published on August 28th, 2025.*
+
+[*Original*](https://www.newgrounds.com/art/view/rockicwifffyre/mbt-31) *created on July 1st, 2023.*
+
 *Last modified on October 7th, 2025.*

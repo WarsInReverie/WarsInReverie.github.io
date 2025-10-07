@@ -19,3 +19,7 @@ The MAT-31ELF is, at its core, an obsolete tank that is most definitely outclass
 
 <!-- More MBT-31 artwork here:
 {{< article link="/media/mbt-31/">}} -->
+
+*Created on August 28th, 2025.*
+
+*Last modified on October 7th, 2025.*
