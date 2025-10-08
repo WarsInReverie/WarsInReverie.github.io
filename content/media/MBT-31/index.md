@@ -24,5 +24,5 @@ mediums: ["roblox"]
 
 # Links
 
-Main post:
-{{< article link="/posts/mbt-31/">}}
+*Main post:*
+{{< article link="/posts/mbt-31/" showSummary=false compactSummary=false >}}

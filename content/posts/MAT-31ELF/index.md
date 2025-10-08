@@ -17,9 +17,6 @@ Do not let the old chassis fool you, however. The Elf's new armor and survivabil
 
 The MAT-31ELF is, at its core, an obsolete tank that is most definitely outclassed by most armored vehicles, but its doctrine is not to act as an armored spearhead, or maneuver against other armor. It's now an armored assault gun; A cheap, mobile, and versatile direct fires platform with enough armor to take a beating from infantry and light armored vehicles. When employed in that doctrine, the MAT-31ELF does its job.
 
-<!-- More MBT-31 artwork here:
-{{< article link="/media/mbt-31/">}} -->
-
 *Created on August 28th, 2025.*
 
 *Last modified on October 7th, 2025.*
