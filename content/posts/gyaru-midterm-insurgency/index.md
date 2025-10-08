@@ -19,15 +19,15 @@ The Glossy Gyaru was a tank from Company F of the 2nd Armored Battalion, 6th Arm
 
 The Midterm Insurgency was an internal conflict within the Federation between 1974 to 1979. The etymology of the name is two-fold: Firstly, the conflict coincided with the Midterm Elections of 1974, and was largely resolved by the Midterm Elections of 1978, hence the conflict’s association with the Midterms. Secondly, though some people consider this to be the Federation’s “second civil war," the Federation government had not declared a state of war during the conflict. Instead, government statements describe the period as an insurgency, thus how the conflict recieved its historical nomenclature.
 
+Although the term “insurgency” sounds singular, the conflict was characterized by massive internal strife across the Federation. There was a motley of belligerents, ranging from pro-democracy protesters to anti-furry mobs, to anarcho-syndicalist freedom fighters, to rebellious local governments, to a motley of other rival groups. Each of these groups have vastly different objectives and circumstances, but all were in defiance to the Federation government.
+
 {{< figure
     src="GlossyGyaru_2.webp"
     alt="GlossyGyaru_2.webp"
     caption="Glossy Gyaru perched atop a hill. Circa Summer of 1976."
     >}}
 
-Although the term “insurgency” sounds singular, the conflict was characterized by massive internal strife across the Federation. There was a motley of belligerents, ranging from pro-democracy protesters to anti-furry mobs, to anarcho-syndicalist freedom fighters, to rebellious local governments, to a motley of other rival groups. Each of these groups have vastly different objectives and circumstances, but all were in defiance to the Federation government.
-
-To summarize in broad terms: the Midterm Insurgency was the ultimate result of a rapidly escalating social, economic, and political tension across various places; From rising racial tensions between humans and furries, to increasing socialist belligerency, to growing regionalism in the Federation's constituent governments, to general unrest against economic hardship and political corruption. The political landscape leading up to the 1974 Midterm Election was defined by widespread unsatisfaction to the Federation government, with political groups tugging at all sides.
+To summarize briefly: the Midterm Insurgency was the ultimate result of a rapidly escalating social, economic, and political tension across various places; Resulting from rising racial tensions between humans and furries, to increasing socialist belligerency, to growing regionalism in the Federation's constituent governments, to general unrest against economic hardship and political corruption. The political landscape leading up to the 1974 Midterm Election was defined by widespread unsatisfaction to the Federation government, with political groups tugging at all sides.
 
 The result of the 1974 midterms only inflamed the situation. The election introduced a wave of new officials that backed anti-segregationist and socio-economic reforms. The anti-segregationist reforms alienated the hardline conservatives and ultra-nationalists, while the socio-economic reforms was dismissed by socialist groups as too little, too late. 
 
