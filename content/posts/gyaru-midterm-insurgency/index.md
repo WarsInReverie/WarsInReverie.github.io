@@ -43,7 +43,7 @@ By the time the Midterm Insurgency started, the “Glossy Gyaru” should have b
 
 As part of the 6th Armored, the Glossy Gyaru seen action throughout the Federation heartlands, suppressing forces hostile to Federation law. Most of these missions were policing actions: Tanks patrolling cities as a “show-of-force" to deter violence. A few others, however, were combat missions. In combat, military tanks supported soldiers and policemen by providing cover with their heavy armor, or in some rare instances, providing fire support with their cannons. The Glossy Gyaru was photographed in many of those engagements, providing direct fires against entrenched rebels in rural lands.
 
-Though tanks can be considered as overkill in a counter-insurgency campaign, they represent the how hellbent the Federation government was willing to assert its authority and morals, even if it was in conflict of local or cultural norms.
+Though tanks can be considered as overkill in a counter-insurgency campaign, they represent the how hellbent the Federation government was willing to assert its authority and morals, in spite of dissenting opinions.
 
 {{< figure
     src="GlossyGyaru_4.webp"
