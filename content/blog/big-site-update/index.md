@@ -32,12 +32,18 @@ It wasn't until this past weekend, once Midterms had passed and I was a little b
 
 # What's Next?
 
-This big update finally puts this website into what I'd consider a presentable state, but there's still other goals I'd want this website to reach eventually. Like MillMint, I'd also like to integrate a wikipedia-style section into this site (or a [factbook](https://millmint.net/factbook/) as called on the MillMint site). 
+So what's next after this big update?
+
+The first, immediate thing is that I've got to prepare some other tertiary stuff around Wars in Reverie. I'm preparing this updated website to be as a part of a broader publicity campaign. I've finished the teaser video two days ago, and just finished this site today, so the last bit of logistics I'd want to do is to repurpose the RockiCwiffFyre Discord Server to be a Wars in Reverie community server. RCF hasn't seen much activity, and the products NopeNop! and I have planned under RCF are only relevent to Blocksworld. I'd think those sorts of productions can be handled in a groupchat, rather than a whole Discord server, so I'm planning to just usurp the RCF server as a broader push to get Wars in Reverie out there.
+
+I know that calling this a "publicity campaign" is blowing a whole lot of pressurized smoke up your ass, but it's the best I can do with how busy I am with college studies and a couple other side-projects. If anything, I've been holding back Wars in Reverie because I consider this project to be in a viable state to be showcased yet. Not until I finalized enough content for the project, like the teaser video and this website update.
+
+Bringing this back to this website — there's still other longer-term goals I'd want this website to reach. Like MillMint, I'd also like to integrate a wikipedia-style section into this site (or a [factbook](https://millmint.net/factbook/) as called on the MillMint site). 
 
 {{< figure
     src="img/refs/MillMint-Factbook.png"
     >}}
 
-That's the next big goal for me, but something I'll do further into the future; I just don't think it's a big priority yet. Right now there's not enough website content that deserves whole-ass wikipedia entries, lest all those articles will be legalese and word salad without any visual references.
+That's the next big goal for me, but something I'll do further into the future; I just don't think it's a big priority yet. Right now there's not enough website content that deserves whole-ass wikipedia entries, lest all those articles will be legalese, corpo-speak, and word salads without any visual references.
 
-With this, I can rest assured that this site is now in a state that I trust that it can stand alone. It has a good landing page that immediately gives visitors an impression, and has some content to pique their interest. The website can stand alone now, without me having to add context when sharing it to people.
+But this update as it is, it gives me assurance for the project. The website can stand alone now, without me having to add context when sharing it to people. It has a good landing page that immediately gives visitors an impression, and has some content to pique their interest. I can rest assured that people visiting this site can look around, learn a little bit about the project, actually enjoy it.

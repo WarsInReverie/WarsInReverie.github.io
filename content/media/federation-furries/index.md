@@ -25,7 +25,7 @@ Illustrated artwork depicting variatious examples of Furries and Demi-Humans in 
 
 ## Description
 
-This artwork was created by [YouHoooop](https://www.youtube.com/channel/UCelIJnUwgRUwVWfx0UgE_Uw) while under commission from Cliff Ricks. The original artwork was finished on August 8, 2025.
+This artwork was created by [YouHoooop](https://www.instagram.com/youhoooop/) while under commission from Cliff Ricks. The original artwork was finished on August 8, 2025.
 This artwork was edited for website publishing by Cliff Ricks on November 17, 2025.
 
 Drawn with:
