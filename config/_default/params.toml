@@ -24,8 +24,8 @@ disableTextInHeader = false
 
 defaultBackgroundImage = "background-gif.gif" # used as default for background images 
 defaultFeaturedImage = "feature-default.png" # used as default for featured images in all articles
-defaultBackgroundVideo = "Background.mp4" # custom property used for background videos on index page -cwiffy
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultBackgroundVideo = "bg-video-bright-30fps.webm" # custom property used for background videos on index page -cwiffy
+defaultSocialImage = "assets/img/banners/thumbnail1b.png" # used as default for social media sharing (Open Graph and Twitter)
 
 # highlightCurrentMenuArea = true
 # smartTOC = true

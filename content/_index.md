@@ -1,6 +1,7 @@
 ---
-title: "Index"
+title: "Wars in Reverie"
 date: 2025-06-17T18:03:44+01:00
+description: "Welcome to these Wars in Reverie."
 draft: false
 showDate : false
 showDateUpdated : false
