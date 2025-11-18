@@ -9,6 +9,7 @@ content:
   - "🎨 Media"
 authors:
   - "cwiffy"
+  - "youhoop"
 mediums:
   - "Illustrations"
 ---

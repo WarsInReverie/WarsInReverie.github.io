@@ -9,6 +9,8 @@ content:
   - "🎨 Media"
 authors:
   - "cwiffy"
+  - "wazabii"
+  - "secio"
 mediums:
   - "Illustrations"
 ---
