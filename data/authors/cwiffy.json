@@ -1,7 +1,8 @@
 {
     "name": "Cliff Ricks",
     "image" : "author/cwiffy_pfp.png",
-    "bio": "Writer, Producer, and Everything Else",
+    "byline": "Project Lead",
+    "bio": "hi, im cliff ricks.",
     "social": [
         { "bluesky": "https://bsky.app/profile/cwiffy.bsky.social"},
         { "twitter": "https://twitter.com/Cwiffy_Ricks" },

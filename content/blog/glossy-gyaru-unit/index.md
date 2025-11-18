@@ -1,41 +1,39 @@
 ---
-date: '2025-10-01T00:58:15-05:00'
+date: 2025-10-01T00:58:15-05:00
 draft: false
-title: 'Unit Markings of Glossy Gyaru'
+title: Unit Markings of Glossy Gyaru
 showAuthor: false
 authors:
-    - "cwiffy"
+  - "cwiffy"
 showTableOfContents: true
 showHero: false
 ---
 
 The Glossy Gyaru has some cool textures and markings that I couldn’t really talk about in the Glossy Gyaru in the Midterm Insurgency article.
 
-I was on the verge of detailing the Glossy Gyaru’s unit placement (which corresponds with its markings), but it felt too tangential that I eventually cut it from the main article. Additionally, I wanna maintain an objective, third-person narrative tone when I write mainline posts, so even if I did keep it in, I wouldn’t be able to geek out in-depth about the context, unlike my commentary in these DevLogs. I still want to make a dedicated post about Federation unit markings at some point. But for now, I just want to give a rundown on the Glossy Gyaru, her markings, and a little on why Federation unit compositions are so Brigade-centric.
+I was on the verge of detailing the Glossy Gyaru’s unit placement (which corresponds with its markings), but it felt too tangential that I eventually cut it from the main article. Additionally, I wanna maintain an objective, third-person narrative tone when I write articles, so even if I did keep it in, I wouldn’t be able to geek out in-depth about the context, unlike my commentary in these DevLogs. I still want to make a dedicated post about Federation unit markings at some point. But for now, I just want to give a rundown on the Glossy Gyaru, her markings, and a little on why Federation unit compositions are so Brigade-centric.
 
 ## Glossy Gyaru
 
-First off— Glossy Gyaru herself. I say “her” as a sort of loving anthropomorphizing, like how ships are referred with female pronouns. Also, as of writing, I’m not sure if Glossy Gyaru would have a tankgirl incarnation or not (I’ve been considering if this catgirl character should be the tankgirl of the Glossy Gyaru). So, consider my referral to the tank as a female as a form of future proofing.
+First off— Glossy Gyaru herself. I say “her” as a sort of loving anthropomorphizing, like how ships are referred with female pronouns. Also, as of writing, I’m not sure if Glossy Gyaru would have a tankgirl incarnation or not (I’ve been considering if the catgirl seen in the Glossy Gyaru pictures should be the tankgirl). So, consider my referral to the tank as a female as a form of future-proofing.
 
 The idea for this tank is quite old, about as old as the MBT-31 itself as a design that I made. I made the MBT-31 in mid-2023, and made [my developer's commentary](https://cwiffie.newgrounds.com/news/post/1369258) of that design on July 1st. And immediately on that post, you see a tank with the name written across the cannon barrel: *“Glossy Gyaru.”*
 
 {{< figure
-    src="mbt31_1.webp"
-    alt="WHAT"
+    src="/img/mbt31_1.webp"
+    alt="mbt31_1.webp"
     caption="The original Glossy Gyaru. Different angle to the Newgrounds photo."
     >}}
 
-It was just a random, dumb name I made to put on the tank. I was doing the same to other armored vehicles I was making through 2022 and 2023 — Plastering dumb names, mascots, and insignias onto their hulls to give them each some carefree charm.
+It was just a random, dumb name I made to put on the tank. I was doing the same to other armored vehicles I was making through 2022 and 2023 — Plastering dumb names, mascots, and insignias onto their hulls to give them each some carefree charm. Best example of this are three IFV's that I've made, then subsequently branded the "Shooter Scooter", "Inali", and "Depresso Expresso" just out of some sort of bland comedy.
 
 {{< gallery >}}
-  <img src="RobloxScreenShot20251002_002411494.png" class="grid-w100" />
-  <img src="RobloxScreenShot20251002_002504859.png" class="grid-w50" />
-  <img src="RobloxScreenShot20251002_002520642.png" class="grid-w50" />
+  <img src="/img/RobloxScreenShot20251002_002411494.png" class="grid-w100" />
+  <img src="/img/RobloxScreenShot20251002_002504859.png" class="grid-w50" />
+  <img src="/img/RobloxScreenShot20251002_002520642.png" class="grid-w50" />
 {{< /gallery >}}
 
-(The "Shooter Scooter", "Inali", & "Depresso Expresso")
-
-But even then, the name just kinda stuck. Not that it’s particularly charming, I was just too lazy to dish out any more names. So come this year, once I felt like revisiting some of my old work after committing to *”Wars in Reverie”* as a project title, I wanted to touch up an MBT-31 and give it cool decals. Then, when it came time to put a name on the barrel, what other one to slap on except Glossy Gyaru. Thus how I made the Glossy Gyaru pictured in the main article.
+The Glossy Gyaru was no different, and name just kinda stuck. Not that it’s particularly charming, I was just too lazy to dish out any better name. So come this year, once I felt like revisiting some of my old work after committing to *”Wars in Reverie”* as a project title, I wanted to touch up an MBT-31 and give it cool decals. Then, when it came time to put a name on the barrel, what other one to slap on except Glossy Gyaru. Thus how I made the Glossy Gyaru pictured in the main article.
 
 ## Unit Assignment
 
@@ -43,29 +41,29 @@ That tangent aside, the Glossy Gyaru’s unit assignment is with the 6th Armored
 The markings on the tank correspond to her unit. The regimental colors of the 6th Armored is yellow — and emboldened all across the Glossy Gyaru are those regimental colors: yellow.
 
 {{< figure
-    src="RobloxScreenShot20250926_212803388.png"
+    src="/img/RobloxScreenShot20250926_212803388.png"
     alt="RobloxScreenShot20250926_212803388.png"    
     >}}
 
 The “F23” marking on the gun spotlight denotes “Company F, 2nd Platoon, 3rd Vehicle.”
 
 {{< gallery >}}
-  <img src="RobloxScreenShot20251002_002014914.png" class="grid-w50" />
-  <img src="F23_glossy_gyaru(1).png" class="grid-w50" />
+  <img src="/img/RobloxScreenShot20251002_002014914.png" class="grid-w50" />
+  <img src="/img/F23_glossy_gyaru(1).png" class="grid-w50" />
 {{< /gallery >}}
 
 Then, there are painted markings on the fenders of the tank. On the left side, it shows “2/6 ARM.” with a cross; The 2 and the cross both denote “2nd Battalion” (the cross has two lines, representing the number two). The “6th ARM.” is an abbreviation for the 6th Armored Brigade.
 
 {{< gallery >}}
-  <img src="RobloxScreenShot20251002_002038613.png" class="grid-w50" />
-  <img src="F23_27ARM(3).png" class="grid-w50" />
+  <img src="/img/RobloxScreenShot20251002_002038613.png" class="grid-w50" />
+  <img src="/img/F23_27ARM(3).png" class="grid-w50" />
 {{< /gallery >}}
 
 Meanwhile, the blocked "F" marking signifies "F Company."
 
 {{< gallery >}}
-  <img src="RobloxScreenShot20251002_002049398.png" class="grid-w50" />
-  <img src="F23_F-co(1).png" class="grid-w50" />
+  <img src="/img/RobloxScreenShot20251002_002049398.png" class="grid-w50" />
+  <img src="/img/F23_F-co(1).png" class="grid-w50" />
 {{< /gallery >}}
 
 And no, at time of writing, I haven’t made a 6th Armored Brigade insignia yet. I was really hoping to make one, but I wanted to finalize the main article the same week I had exams, so I just decided to put out the article without the brigade insignia.
@@ -75,7 +73,7 @@ This was most definitely the main experiment behind the Glossy Gyaru: I wanted t
 More tellingly, the idea isn’t original just to this instance. I’m taking inspiration from my childhood imaginative military, the PMRDD. In there, armored vehicles were also brandished with unit colors, clearly identifying what commands they belonged to.
 
 {{< figure
-    src="blank_0.png"
+    src="/img/refs/blank_0.png"
     alt="blank_0.png"
     caption="PMRDD walking tanks, aircraft, and spaceships — all with yellow markings."
     >}}
@@ -90,7 +88,7 @@ The Glossy Gyaru — and also the helmets of her accompanying infantry — has y
 Well historically (in real life), military formations identified themselves to the regiment first. When you read historical accounts of the U.S. Civil War, the units on the field were maneuvering as part of regiments, or brigades consisting of regiments. The regiment was the highest-level unit of specialized soldiers — There were infantry regiments, cavalry regiments, and artillery regiments. If you asked any soldier what unit they belonged to, they’ll give you their regiment (8th New York Infantry, 3rd Indiana Cavalry, etc.). It wasn’t until WWI when U.S. Army units [started embroidering](https://en.wikipedia.org/wiki/Shoulder_sleeve_insignia#Colored_shoulder_sleeve_insignia) their division patch onto their doughboy fatigues. Then in the mid-20th century, when the U.S. Army transitioned to Brigade Combat Teams, the conept of regiments as a field unit became a footnote.
 
 {{< figure
-    src="332shoulderinsignia.jpg"
+    src="/img/refs/332shoulderinsignia.jpg"
     alt="332shoulderinsignia.jpg"
     caption="Shoulder Sleeve Insignia (SSI) of the 332nd Infantry Regiment in the Great War."
     >}}
@@ -100,7 +98,7 @@ Instead, the Federation Army is to take a different path: If regimental colors i
 The best comparison would be to the Clone Troopers in Star Wars, and how troopers adorn themselves with custom colors depending on their unit (501st Legion, 327th Star Corps, etc.). But with more grounded reasoning, using that aforementioned history of military regiments.
 
 {{< figure
-    src="327starcorps.jpg"
+    src="/img/refs/327starcorps.jpg"
     alt="327starcorps.jpg"
     caption="327th Star Corps image by [TheStrikeWyvern](https://www.deviantart.com/thestrikewyvern/art/327th-Star-Corps-868089997) on DeviantArt."
     >}}
@@ -110,7 +108,7 @@ Despite that Star Wars comparison, that was not my source of inspiration. I was 
 This had its own history, too. I originally implemented the idea in 2016, when the PMRDD had countless players as members and I wanted to organize them into fireteams (4-player units). Given how small Blocksworld’s playerbase was, 4-person units seemed to be an adequate unit size. Each of those fireteams was given a unique color and insignia combination.
 
 {{< figure
-    src="Screenshot 2025-08-09 235828.png"
+    src="/img/refs/Screenshot2025-08-09.png"
     alt="Screenshot 2025-08-09 235828.png"
     caption="PMRDD soldiers with violet-purple unit markings, circa mid-2016."
     >}}
@@ -118,7 +116,7 @@ This had its own history, too. I originally implemented the idea in 2016, when t
 Then later in 2018, when the Blocksworld Military Community became less player-centric, I changed the organization to have battalion-sized units and higher to be given colors.
 
 {{< figure
-    src="Preperation._6.png"
+    src="/img/refs/Preperation._6.png"
     alt="Preperation._6.png"
     caption="PMRDD soldiers with light-purple unit markings, circa November 2018."
     >}}
@@ -128,10 +126,14 @@ I’ve written much more than I originally intended, but I still want to give th
 
 But for now, just know that these were all the contexts that revolved around the Glossy Gyaru, and what her markings all symbolize.
 
-## Links
+## Articles
 
-*Main post:*
-{{< article link="/posts/gyaru-midterm-insurgency/" showSummary=true compactSummary=true >}}
+Check out the articles themselves.
+
+*Main article:*
+
+{{< article link="/articles/glossy-gyaru/" showSummary=true compactSummary=true >}}
 
 *Media article:*
-{{< article link="/media/glossy-gyaru-posters/" showSummary=false compactSummary=false >}}
+
+{{< article link="/media/glossy-gyaru/" showSummary=true compactSummary=true >}}

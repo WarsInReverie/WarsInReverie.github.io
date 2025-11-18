@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Index"
 date: 2025-06-17T18:03:44+01:00
 draft: false
 showDate : false
@@ -14,8 +14,10 @@ showSummary : false
 sharingLinks : false
 ---
 
-{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#27272a" >}}
+<!-- {{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#27272a" >}}
 This website is still a **work in progress**. Some pages and site functionality has not yet been added.
-{{< /alert >}}
+{{< /alert >}} -->
 
-Welcome to these Wars in Reverie.
+{{< alert icon="youtube" cardColor="#ffffffff" iconColor="#27272a" textColor="#27272a" >}}
+Watch the new [**teaser**](https://youtu.be/4bXVDMWfSKY) video.
+{{< /alert >}}

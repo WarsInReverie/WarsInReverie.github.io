@@ -1,0 +1,92 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<article class="max-w-full prose dark:prose-invert">
+  <div class="relative">
+    <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
+    <div class="mx-auto max-w-7xl p-0">
+      <div class="relative sm:overflow-hidden">
+        <!-- This is the <div> that containins video/image content -->
+        <div class="fixed inset-x-0 top-0 z-index-[-10]">
+          <!-- To call a source image or other media, it first needs to be set as a Resource method. (https://gohugo.io/methods/) -->
+          <!-- Setting a global resource with "resource.Get" will immediately search for that source in the "/assets/"" directory. -->
+          <!-- Else, a resource would need to be specified with a location relative from the root "/"  -->
+          {{ $homepageVid := resources.Get "bg-video-bright-30fps.webm" }}
+         <video
+              class="w-full h-[1000px] object-cover m-0 nozoom margin-0"
+              src="{{ $homepageVid.RelPermalink }}"
+              autoplay=""
+              loop=""
+              muted=""
+              playsinline=""
+              role="presentation">
+          </video>
+        </div>
+        <!-- This is the <div> that contains neutral color gradient; Has to be in seperate div to be on higher layer/z-index above video/image -->
+        <div class="fixed inset-x-0 top-0 z-index-[-10]">
+          <div class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-b from-neutral dark:from-neutral-800 mix-blend-normal to-transparent"></div>
+          <div class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 mix-blend-normal to-transparent"></div>
+        </div>
+        <!-- This is the <div> that has houses the main section, with author information and page content. -->
+        <div class="h-screen relative px-1 py-1 flex flex-col items-center justify-center text-center">
+          <!-- 
+            __        __               _         ____                     _      
+            \ \      / /_ _ _ __ ___  (_)_ __   |  _ \ _____   _____ _ __(_) ___ 
+             \ \ /\ / / _` | '__/ __| | | '_ \  | |_) / _ \ \ / / _ \ '__| |/ _ \
+              \ V  V / (_| | |  \__ \ | | | | | |  _ <  __/\ V /  __/ |  | |  __/
+               \_/\_/ \__,_|_|  |___/ |_|_| |_| |_| \_\___| \_/ \___|_|  |_|\___| 
+          -->
+          {{ $logotext := resources.Get "WebLogotext.webp" }}
+          <img
+            class="mb-2"
+            alt="WARS IN REVERIE"
+            src="{{ $logotext.RelPermalink }}">
+          <!-- <h1 class="mb-2 font-extrabold text-neutral-800 dark:text-neutral-200">
+            Last updated {{ time.Now.Month.String }} {{ time.Now.Day }}, {{ now.Format "2006" }}
+          </h1> -->
+          {{ with .Site.Params.Author.headline }}
+            <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
+              {{ . | markdownify }}
+            </h2>
+          {{ end }}
+          <div class="mt-3 mb-10 text-2xl">
+            {{ with .Site.Params.Author.links }}
+              <div class="flex flex-wrap">
+                {{ range $links := . }}
+                  {{ range $name, $url := $links }}
+                    <a
+                      class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200"
+                      href="{{ $url }}"
+                      target="_blank"
+                      aria-label="{{ $name | title }}"
+                      rel="me noopener noreferrer"
+                      >{{ partial
+                        "icon.html" $name
+                      }}</a
+                    >
+                  {{ end }}
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+          <section class="prose dark:prose-invert">
+            {{ .Content }}
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>
+{{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
+  <div
+    id="background-blur"
+    class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+  {{ $backgroundBlur := resources.Get "js/background-blur.js" }}
+  {{ $backgroundBlur = $backgroundBlur | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
+  <script
+    type="text/javascript"
+    src="{{ $backgroundBlur.RelPermalink }}"
+    integrity="{{ $backgroundBlur.Data.Integrity }}"
+    data-target-id="background-blur"></script>
+{{ end }}

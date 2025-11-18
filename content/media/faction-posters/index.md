@@ -1,7 +1,7 @@
 +++
 date = '2025-08-27T12:42:05-05:00'
-draft = false
-title = 'Faction Posters'
+draft = true
+title = 'Faction Posters (Roblox)'
 content = ["🎨 Media"]
 showAuthor = false
 author = ["cwiffy"]
@@ -29,14 +29,14 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ## Full Resolution Poster
 
 {{< figure
-    src="FourSuperpowers_export.png"
+    src="/img/fullres/FourSuperpowers_export.png"
     alt="Four Superpowers artwork"
     caption="Full resolution image in .png format"
     default=true
     >}}
 
 {{< figure
-    src="FourSuperpowers_export.svg"
+    src="/img/fullres/FourSuperpowers_export.svg"
     alt="Four Superpowers artwork"
     caption="Full resolution image in .svg format"
     default=true
@@ -47,14 +47,14 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ### Dynasty Poster
 
 {{< figure
-    src="Poster-Dynasty.png"
+    src="/img/fullres/Poster-Dynasty.png"
     alt="Full-res Dynasty poster art"
     caption="Full resolution poster in .png format"
     default=true
     >}}
 
 {{< figure
-    src="Poster-Dynasty.svg"
+    src="/img/fullres/Poster-Dynasty.svg"
     alt="Full-res Dynasty poster art"
     caption="Full resolution poster in .svg format"
     default=true
@@ -63,14 +63,14 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ### Collective Poster
 
 {{< figure
-    src="Poster-Collective.png"
+    src="/img/fullres/Poster-Collective.png"
     alt="Full-res Collective poster art"
     caption="Full resolution poster in .png format"
     default=true
     >}}
 
 {{< figure
-    src="Poster-Collective.svg"
+    src="/img/fullres/Poster-Collective.svg"
     alt="Full-res Collective poster art"
     caption="Full resolution poster in .svg format"
     default=true
@@ -79,14 +79,14 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ### Federation Poster
 
 {{< figure
-    src="Poster-Federation.png"
+    src="/img/fullres/Poster-Federation.png"
     alt="Full-res Federation poster art"
     caption="Full resolution poster in .png format"
     default=true
     >}}
 
 {{< figure
-    src="Poster-Federation.svg"
+    src="/img/fullres/Poster-Federation.svg"
     alt="Full-res Federation poster art"
     caption="Full resolution poster in .svg format"
     default=true
@@ -95,14 +95,14 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ### Regime Poster
 
 {{< figure
-    src="Poster-Regime.png"
+    src="/img/fullres/Poster-Regime.png"
     alt="Full-res Regime poster art"
     caption="Full resolution poster in .png format"
     default=true
     >}}
 
 {{< figure
-    src="Poster-Regime.svg"
+    src="/img/fullres/Poster-Regime.svg"
     alt="Full-res Regime poster art"
     caption="Full resolution poster in .svg format"
     default=true
@@ -111,25 +111,25 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 ## Original Screenshots
 
 {{< figure
-    src="RobloxScreenShot20250827_153729243.png"
+    src="/img/RobloxScreenShot20250827_153729243.png"
     alt="Collective Screenshot"
     default=true
     >}}
 
 {{< figure
-    src="RobloxScreenShot20250827_154026936.png"
+    src="/img/RobloxScreenShot20250827_154026936.png"
     alt="Dynasty Screenshot"
     default=true
     >}}
 
 {{< figure
-    src="RobloxScreenShot20250827_153856074.png"
+    src="/img/RobloxScreenShot20250827_153856074.png"
     alt="Federation Screenshot"
     default=true
     >}}
 
 {{< figure
-    src="RobloxScreenShot20250827_141052733.png"
+    src="/img/RobloxScreenShot20250827_141052733.png"
     alt="Regime Screenshot"
     default=true
     >}}
@@ -138,4 +138,4 @@ Shown Roblox assets were created by their respective UGC creators. All rights re
 <!-- ## Links
 
 *Main post:*
-{{< article link="/posts/four-superpowers/" showSummary=false compactSummary=false >}} -->
+{{< article link="/articles/four-superpowers/" showSummary=false compactSummary=false >}} -->

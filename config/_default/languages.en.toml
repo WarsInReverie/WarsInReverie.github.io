@@ -9,12 +9,12 @@ title = "Wars in Reverie"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/WebLogo1.webp"
+  secondaryLogo = "img/WebLogo2.webp"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# PARAMETERS FOR THE DEFAULT AUTHOR!!!
+# PARAMETERS FOR THE DEFAULT AUTHOR!!! -cwiffy
 [params.author]
   name = "Wars in Reverie"
 #  email = "youremail@example.com"

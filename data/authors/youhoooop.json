@@ -1,0 +1,10 @@
+{
+    "name": "Youhoooop",
+    "image" : "author/youhoop_Ears.png",
+    "byline": "Illustrator (Commissioned)",
+    "bio": "I'm all ears!",
+    "social": [
+        { "instagram": "https://www.instagram.com/youhoooop/"},
+        { "youtube": "https://www.youtube.com/channel/UCelIJnUwgRUwVWfx0UgE_Uw"}
+    ]
+}

@@ -1,10 +1,20 @@
 @font-face {
-    font-family: Lexend;
+    font-family: "Lexend";
     src: url('/fonts/Lexend-Regular.ttf');
 }
 
+@font-face {
+    font-family: "Novecentosanswide-Bold";
+    src: url('/fonts/Novecentosanswide-Bold.ttf');
+}
+
 html {
-    font-family: Lexend;
+    font-family: "Lexend";
+}
+
+/* ignore this, meant to apply Lexend font to all fonts except "indexTitle" class */
+article, article strong, article b, a, p, h1, h2, h3, h4, h5, h6, hr {
+
 }
 
 .back-overlay {
@@ -23,3 +33,42 @@ html {
 	background-position: top right;
 	background-attachment: fixed;
 }
+
+/*
+	See Nikke Goddess of Victory homepage for inspo (https://nikke-en.com/); 
+	Find div with class-"part1 bg pr" and subdiv with class "video_bg bg pa"
+*/
+.video_bg {
+	width: 100%;
+	height: 100%;
+	left: 0;
+	bottom: 0;
+	z-index: 2;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* primarily used in /layouts/home/custom.html */
+.indexTitle {
+	font-size: 3rem;
+	font-family: "Novecentosanswide-Bold";
+	font-weight: lighter;
+}
+
+.vidTest {
+	/* margin-left: 0px; */
+	/* margin-right: 0px; */
+	/* object-fit: cover; */
+	/* inset-inline: calc(var(--spacing) * 0); */
+	/* top: calc(var(--spacing) * 0); */
+	/* top: 0; */
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+/* used for custom headers in /layouts/partials/header */
+.min-h-header {
+    min-height: 100px;
+  }

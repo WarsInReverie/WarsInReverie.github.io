@@ -11,35 +11,30 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "World"
-  pageRef = "info"
+  name = "Articles"
+  pageRef = "articles"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Multimedia"
+  pageRef = "media"
   weight = 20
+
+[[main]]
+  name = "Illustrations"
+  parent = "Multimedia"
+  pageRef = "mediums/illustrations"
+  weight = 30
+
+[[main]]
+  name = "Roblox Builds"
+  parent = "Multimedia"
+  pageRef = "mediums/roblox/"
+  weight = 40
 
 [[main]]
   name = "Devlog"
   pageRef = "blog"
-  weight = 30
-
-[[main]]
-  name = "Media"
-  pageRef = "media"
-  weight = 40
-
-[[main]]
-  name = "Illustrations"
-  parent = "Media"
-  pageRef = "medium/Illustration"
-  weight = 20
-
-[[main]]
-  name = "Roblox Builds"
-  parent = "Media"
-  pageRef = "mediums/roblox/"
   weight = 30
 
 #[[main]]

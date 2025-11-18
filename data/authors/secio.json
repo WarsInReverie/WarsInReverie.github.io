@@ -1,0 +1,11 @@
+{
+    "name": "Secio",
+    "image" : "author/secio_pfp.png",
+    "byline": "Illustrator (Commissioned)",
+    "bio": "I'm Secio, and I am a freelance illustrator.",
+    "social": [
+        { "twitter": "https://x.com/scio_12"},
+        { "pixiv": "https://www.pixiv.net/en/users/73856804"},
+        { "link": "https://scio12.carrd.co/"}
+    ]
+}

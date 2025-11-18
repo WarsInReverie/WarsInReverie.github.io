@@ -23,3 +23,8 @@ I just feel that I need to try harder to work on this, or abandon it all-togethe
 
 I dread both options. Above all else, I’m realizing that my current life is full of options where I hate any choice I take.
 
+{{< alert "circle-info" >}}
+Addendum as of *November 17th 2025*,
+
+I've taken down the [faction posters](/media/faction-posters/) post from the website, pending some additional lore and design changes. It seems that rather than finishing the "landmark" Four Poles article, I'll just be delaying this pair of articles furthermore. Hopefully they'll be completed and republished to the website in the future. When they are, I'll delete this little addendum — if I don't forget.
+{{< /alert >}}
