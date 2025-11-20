@@ -23,6 +23,7 @@ title = "Wars in Reverie"
 #  headline = "I'm only human"
 #  bio = "A little bit about you"
   links = [
+#     { youtube = "https://www.youtube.com/watch?v=4bXVDMWfSKY" },
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -68,7 +69,6 @@ title = "Wars in Reverie"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
   ]

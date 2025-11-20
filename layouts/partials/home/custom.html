@@ -26,7 +26,7 @@
           <div class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 mix-blend-normal to-transparent"></div>
         </div>
         <!-- This is the <div> that has houses the main section, with author information and page content. -->
-        <div class="h-screen relative px-1 py-1 flex flex-col items-center justify-center text-center">
+        <div class="h-screen relative px-1 py-1 flex flex-col items-center text-center justify-center">
           <!-- 
             __        __               _         ____                     _      
             \ \      / /_ _ _ __ ___  (_)_ __   |  _ \ _____   _____ _ __(_) ___ 
@@ -69,7 +69,9 @@
           </div>
           <section class="prose dark:prose-invert">
             {{ .Content }}
-          </section>
+          </section>          
+          <!-- added this div just as empty space to push the other stuff more upward -->
+          <div class="w-auto h-[150px]"></div>
         </div>
       </div>
     </div>
