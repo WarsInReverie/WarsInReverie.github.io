@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["blog", "articles", "media", "info"]
+mainSections = ["articles", "media"]
 # robots = ""
 
 disableImageOptimization = false
