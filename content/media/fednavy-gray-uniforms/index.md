@@ -8,9 +8,9 @@ factions:
 content:
   - "🎨 Media"
 authors:
-  - "cwiffy"
-  - "wazabii"
   - "secio"
+  - "wazabii"
+  - "cwiffy"
 mediums:
   - "Illustrations"
 ---

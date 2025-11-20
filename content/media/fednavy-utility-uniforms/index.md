@@ -8,8 +8,8 @@ factions:
 content:
   - "🎨 Media"
 authors:
-  - "cwiffy"
   - "wazabii"
+  - "cwiffy"
 mediums:
   - "Illustrations"
 ---
