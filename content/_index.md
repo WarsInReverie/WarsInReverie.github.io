@@ -19,6 +19,6 @@ sharingLinks : false
 This website is still a **work in progress**. Some pages and site functionality has not yet been added.
 {{< /alert >}} -->
 
-{{< alert icon="youtube" cardColor="#ffffffff" iconColor="#27272a" textColor="#27272a" >}}
+<!-- {{< alert icon="youtube" cardColor="#ffffffff" iconColor="#27272a" textColor="#27272a" >}}
 Watch the new [**teaser**](https://youtu.be/4bXVDMWfSKY) video.
-{{< /alert >}}
+{{< /alert >}} -->
