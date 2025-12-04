@@ -19,7 +19,7 @@ Illustrated artwork depicting variations of the Utility Dress Uniform (UDU) of t
 {{< figure
     src="/img/fullres/fednavy_udu_annotated.png"
     alt="fednavy_udu_annotated.png"
-    caption="Image in .png format"
+    caption="FEDNAVY UDU sheet in .png format"
     default=true
     >}}
 

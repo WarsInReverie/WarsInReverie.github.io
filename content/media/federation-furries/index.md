@@ -19,7 +19,7 @@ Illustrated artwork depicting variatious examples of Furries and Demi-Humans in 
 {{< figure
     src="/img/fullres/fedfurries_annotated.png"
     alt="fedfurries_annotated.png"
-    caption="Image in .png format"
+    caption="Sheet depicting Furry & Demi-human service members in .png format"
     default=true
     >}}
 

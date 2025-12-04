@@ -23,7 +23,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "background-gif.gif" # used as default for background images 
-defaultFeaturedImage = "feature-default.png" # used as default for featured images in all articles
+defaultFeaturedImage = "feature-default.webp" # used as default for featured images in all articles
 defaultBackgroundVideo = "bg-video-bright-30fps.webm" # custom property used for background videos on index page -cwiffy
 defaultSocialImage = "assets/img/banners/thumbnail1b.png" # used as default for social media sharing (Open Graph and Twitter)
 

@@ -19,7 +19,7 @@ Wars in Reverie project teaser video, filmed as a [machinima](https://en.wikiped
 ## Description
 
 Created by [Cliff Ricks](https://www.roblox.com/users/69259982/profile) and filmed running Roblox.
-The final cut of the video was rendered on November 15, 2025. This final cut was uploaded to YouTube on November 18, 2025.
+The final cut of the video was rendered on November 15, 2025. This final cut was uploaded to YouTube on November 18, 2025. This video was unlisted from Youtube until November 24.
 
 Created with:
 - [Roblux Studio](https://create.roblox.com/landing)

@@ -13,7 +13,7 @@ You won't read it, but the changelog I've written is comically long.
 
 It's past midnight and getting into the early morning as I write this, so I'll keep this rather short. This short devlog is primarily meant as a perosnal landmark to signal when the website's principal update was finalized and deployed. Outside of marking this site's big update, there's not much for my tired mind to explain, outside of some nuts and nooks with the details. I'm too tired to adlib some fantastic prose, so I'll keep this devlog rather frank for tonight.
 
-# What & Why Was This Update?
+## What & Why Was This Update?
 
 This has been an implementation I've been planning ever since I started coding this website with Hugo. I chose Hugo because I wanted to emulate another worldbuilding project called [Vekllei](https://millmint.net/) which also used Hugo. But outside of that, I didn't have a firm vision for what the website should be, or what it'd look like. So, browsing the Hugo themes for inspiration, I encountered the Blowfish theme, and immediately was struck with an idea.
 
@@ -30,7 +30,7 @@ Haven't actually got around to doing it until now. I first deployed this website
 
 It wasn't until this past weekend, once Midterms had passed and I was a little bummed out, that I picked up the video implementation again. It took two days (I started after I finished editing the [project teaser video](/content/media/roblox-teaser/)) but I eventually added the features that I want in this site, chief among them the looping video in the index page.
 
-# What's Next?
+## What's Next?
 
 So what's next after this big update?
 

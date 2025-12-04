@@ -20,7 +20,7 @@ Illustrated artwork depicting the Gray Service Uniform of the Federation Navy (F
 {{< figure
     src="/img/fullres/fednavy_grays_annotated.png"
     alt="fednavy_grays_annotated.png"
-    caption="Image in .png format"
+    caption="FEDNAVY Battleship Grays sheet in .png format"
     default=true
     >}}
 
