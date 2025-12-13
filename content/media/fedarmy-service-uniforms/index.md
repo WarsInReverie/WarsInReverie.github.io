@@ -26,7 +26,7 @@ Illustrated artwork depicting variations of the Army Drab Service Uniform (ADSU)
 {{< figure
     src="/img/fullres/army_service_annotated2.png"
     alt="army_service_annotated2.png"
-    caption="ADSU Sheet, Version 1 (SPvt. Banks with Class B's) in .png format"
+    caption="ADSU Sheet, Version 2 (SPvt. Banks with Class B's) in .png format"
     default=true
     >}}
 

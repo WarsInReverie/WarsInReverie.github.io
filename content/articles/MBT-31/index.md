@@ -48,6 +48,3 @@ The MBT-31 served for a long four decades in frontline service, the longest serv
 [*Original*](https://www.newgrounds.com/art/view/rockicwifffyre/mbt-31) *created on July 1st, 2023.*
 
 *Last modified on October 7th, 2025.*
-
-*More MBT-31 artwork:*
-{{< article link="/media/mbt-31/" showSummary=false compactSummary=false >}}
