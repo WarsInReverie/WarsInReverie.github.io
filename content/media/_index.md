@@ -5,7 +5,7 @@ cascade:
   showReadingTime: false
 type: branch
 params:
-  headerImg: header_media.png
+  headerImg: header_media.webp
 cardView: true
 ---
 
