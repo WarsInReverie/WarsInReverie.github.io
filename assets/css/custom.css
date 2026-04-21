@@ -14,7 +14,7 @@ html {
 
 /* ignore this, meant to apply Lexend font to all fonts except "indexTitle" class */
 article, article strong, article b, a, p, h1, h2, h3, h4, h5, h6, hr {
-
+	font-family: "Lexend";
 }
 
 .back-overlay {
