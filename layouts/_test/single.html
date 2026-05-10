@@ -7,20 +7,20 @@
 
     <article>
 
-    {{/*  {{ if .Params.showHero | default (.Site.Params.article.showHero | default false) }}
-      {{ $heroStyle := .Params.heroStyle }}
-      {{ if not $heroStyle }}{{ $heroStyle = .Site.Params.article.heroStyle }}{{ end }}
-      {{ $heroStyle := print "hero/" $heroStyle ".html" }}
-      {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
-        {{ partial $heroStyle . }}
-      {{ else }}
-        {{ partial "hero/basic.html" . }}
-      {{ end }}
-    {{ end }}  */}}
+        {{/*  {{ if .Params.showHero | default (.Site.Params.article.showHero | default false) }}
+        {{ $heroStyle := .Params.heroStyle }}
+        {{ if not $heroStyle }}{{ $heroStyle = .Site.Params.article.heroStyle }}{{ end }}
+        {{ $heroStyle := print "hero/" $heroStyle ".html" }}
+        {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
+            {{ partial $heroStyle . }}
+        {{ else }}
+            {{ partial "hero/basic.html" . }}
+        {{ end }}
+        {{ end }}  */}}
 
-    {{partial "hero/background.html" . }}
+        {{partial "hero/background.html" . }}
 
-    <p> or add it here lol </p>
+        <p> nuh uhh </p>
         
         <header id="single_header" class="mt-5 max-w-prose">
             {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
@@ -75,7 +75,10 @@
 
 
             <div class="article-content max-w-prose mb-20">
+            
+            <!-- INCLUDE CONTENT -->
             {{ .Content }}
+            
             {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
             {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
             {{ if $replyByEmail }}

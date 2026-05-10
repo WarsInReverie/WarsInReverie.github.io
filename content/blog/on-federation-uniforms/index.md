@@ -1,8 +1,11 @@
 ---
 date: '2025-12-04T03:26:44-06:00'
+lastmod: '2026-05-10T03:10:20-06:00'
 draft: false
 title: 'On Federation Uniforms'
 showAuthor: false
+showDate: true
+showDateUpdated: true
 authors:
   - "cwiffy"
 showTableOfContents: true
@@ -31,4 +34,4 @@ This is the thin line that the Federation's uniforms occupy. It should look colo
 
 ![twogirls.png](/img/twogirls.png)
 
-If she looks like a soldier, and if she dresses like a soldier, then...
+If they look like a soldier, if they act like a soldier, if they *dress* like a soldier, then...

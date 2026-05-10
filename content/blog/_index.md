@@ -9,8 +9,8 @@ params:
 cardView: false
 ---
 
-This section houses creators' commentary and developer logs, or "devlogs." This is where contributors to *Wars in Reverie* can share their ideas about the project, and their creative processes behind their works.
+This section houses creators' commentary and developer logs, or "devlogs." This is where contributors to *Wars in Reverie* can offload their ideas, behind-the-scenes, and creative process.
 
-{{< alert "circle-info" >}}
-The **opinions of each contributor** do not necessarily reflect the views or mission of the *Wars in Reverie* project.
-{{< /alert >}}
+<!-- {{< alert "circle-info" >}}
+These posts may be **opinionated to their author**, and do not necessarily reflect the views or mission of the *Wars in Reverie* project and its individual contributors.
+{{< /alert >}} -->

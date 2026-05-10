@@ -17,3 +17,9 @@ these ncd sentiments can be described as hypermilitarism, but in a way that runs
 this ncd sentiment priortizes utility to accomplish military victory through any means necessary, in disregard to culture, stigma, or fashion -- most notably this mindset is coopted by lgbt and minority cultural viewpoints. what conservatives may call to be "wokeness" in the military, those with this ncd sentiment could assert that intangible cultural norms or stigmas have no bearing on practical military effectiveness or utility.
 
 both ncd and its militarist sentiments have exploded in popularity after russia's 2022 invasion of ukraine, and the many criticisms levied against russia's handling of that invasion by the r/noncredibledefense community.
+
+### smaller header
+
+- this is a minus
+
++ this is a plus
